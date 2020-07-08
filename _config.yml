@@ -1,13 +1,13 @@
 # Site settings
 title: Cactus School
-description: An online school of digital crafts.
+description: Online School of Digital Crafts
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://safaorhan.github.io/jekyll-theme-minimal-resume/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Cactus School 🌵
 user_description: We are creating online courses and providing career coaching to people that want a fresh career in tech industry. Don't hesitate to reach out to us if you have any questions.
-user_title: An online school of digital crafts.
+user_title: Online School of Digital Crafts
 email: hi@cactus.school
 
 # Google-analytics
